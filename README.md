@@ -1,1 +1,1 @@
-# KazNU-
+# KazNU building recognition
